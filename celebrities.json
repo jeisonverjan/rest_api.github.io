@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "name": "Albert Einstein",
+        "country": "Germany",
+        "category": "Cience",
+        "born": "03/14/1879",
+        "live": false,
+        "photo": "/images/Albert_Einstein_Head.jpg",
+        "gender": "M",
+        "tags": ["scientific", "physicist"]
+    },
+
+    {
+        "id": 2,
+        "name": "Nikola Tesla",
+        "country": "Croatia",
+        "category": "Cience",
+        "born": "07/10/1856",
+        "live": false,
+        "photo": "/images/Tesla_circa_1890.jpeg",
+        "gender": "M",
+        "tags": ["scientific", "electricity"]
+    },
+
+    {
+        "id": 3,
+        "name": "Alan Turing",
+        "country": "England",
+        "category": "Cience",
+        "born": "06/23/1912",
+        "live": false,
+        "photo": "/images/Alan_Turing_Aged_16.jpg",
+        "gender": "M",
+        "tags": ["scientific", "computation", " Turing machine"]
+    },
+
+    {
+        "id": 4,
+        "name": "Galileo Galilei",
+        "country": "Italy",
+        "category": "Cience",
+        "born": "02/15/1564",
+        "live": false,
+        "photo": "/images/Galileo_Galilei,_1636.jpg",
+        "gender": "M",
+        "tags": ["scientific", "music", "astronymy", "telescope"]
+    },
+
+    {
+        "id": 5,
+        "name": "Marie Curie",
+        "country": "Poland",
+        "category": "Music",
+        "born": "11/07/1867",
+        "live": false,
+        "photo": "/images/Marie_Curie_c._1920s.jpg",
+        "gender": "F",
+        "tags": ["scientific", "radioactivity"]
+    }
+]

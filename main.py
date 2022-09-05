@@ -16,7 +16,8 @@ class User(BaseModel):
 
 app = FastAPI(
     title="Thousand celebrities - API.",
-    description="In this API you can obtain information about thousands of celebrities of all times in different categories. You can nominate a new celebrity, which after verification will be added; additionally, you can request to update or modify information of existing celebrities."
+    description="In this API you can obtain information about thousands of celebrities of all times in different categories. You can nominate a new celebrity, which after verification will be added; additionally, you can request to update or modify information of existing celebrities.",
+    docs_url="/"
     
 )
 
@@ -32,7 +33,7 @@ for categ in data:
         categories[cont] = data[categ]['category']
         cont += 1
 
-@app.get('/', tags=['Get data'])
+@app.get('/home', tags=['Get data'])
 async def home():
     return data
 

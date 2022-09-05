@@ -1,0 +1,1 @@
+{"2": {"name": "string", "country": "string", "category": "string", "born": "string", "live": true, "photo": "string", "gender": "string", "tags": ["string"]}, "6": {"name": "test", "country": "string", "category": "string", "born": "string", "live": false, "photo": "string", "gender": "string", "tags": ["string"]}}

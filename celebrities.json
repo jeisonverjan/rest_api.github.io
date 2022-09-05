@@ -1,6 +1,5 @@
-[
-    {
-        "id": 1,
+{
+    "1": {
         "name": "Albert Einstein",
         "country": "Germany",
         "category": "Cience",
@@ -11,8 +10,7 @@
         "tags": ["scientific", "physicist"]
     },
 
-    {
-        "id": 2,
+    "2":{
         "name": "Nikola Tesla",
         "country": "Croatia",
         "category": "Cience",
@@ -23,8 +21,7 @@
         "tags": ["scientific", "electricity"]
     },
 
-    {
-        "id": 3,
+    "3":{
         "name": "Alan Turing",
         "country": "England",
         "category": "Cience",
@@ -35,8 +32,7 @@
         "tags": ["scientific", "computation", " Turing machine"]
     },
 
-    {
-        "id": 4,
+    "4":{
         "name": "Galileo Galilei",
         "country": "Italy",
         "category": "Cience",
@@ -47,8 +43,7 @@
         "tags": ["scientific", "music", "astronymy", "telescope"]
     },
 
-    {
-        "id": 5,
+    "5":{
         "name": "Marie Curie",
         "country": "Poland",
         "category": "Music",
@@ -57,5 +52,15 @@
         "photo": "/images/Marie_Curie_c._1920s.jpg",
         "gender": "F",
         "tags": ["scientific", "radioactivity"]
+    },
+    "6":{
+        "name": "Son Guku",
+        "country": "Japan",
+        "category": "Anime",
+        "born": "11/07/1887",
+        "live": true,
+        "photo": "/images/son-goku.jpg",
+        "gender": "M",
+        "tags": ["Dragon ball", "Figther"]
     }
-]
+}

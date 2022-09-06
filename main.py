@@ -27,11 +27,12 @@ with open("celebrities.json", "r") as f:
 index = len(data)
 
 categories = {}
-cont = 1
-for categ in data:
-    if data[categ]['category'] not in categories.values():
-        categories[cont] = data[categ]['category']
-        cont += 1
+for i in data:
+    category = data[i]['category']
+    if category in categories.keys():
+        categories[category] += 1
+    else:
+        categories[category] = 1
 
 @app.get('/home', tags=['Get data'])
 async def home():

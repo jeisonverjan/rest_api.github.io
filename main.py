@@ -57,6 +57,19 @@ async def get_user_by_id(user_id: int = Path(None, description="Get a celebrity 
 
     return data[str(user_id)]
 
+@app.get("/get-user-name/{user_name}", tags=['Get data'])
+async def get_user_by_name(user_name: str = Path(None, description="Get a celebrity by name, enter the name or part of the name, return a dictionary with the matches found.")):
+    user_by_name = {}
+    for i in data:
+        for j in i:
+            celebrity_name = data[i]['name'].lower()
+            if celebrity_name.__contains__(user_name.lower()):
+                user_by_name[i] = data[i]
+    if len(user_by_name) == 0:
+        raise HTTPException(status_code=400, detail="User not found.")        
+    else:
+        return user_by_name
+
 
 @app.post("/create-celebrity", tags=['Add new celebrity request'])
 async def create_celebrity(user: User):

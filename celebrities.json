@@ -3,42 +3,42 @@
         "name": "Albert Einstein",
         "country": "Germany",
         "category": "Cience",
-        "born": "03/14/1879",
+        "born": "3/14/1879",
         "live": false,
-        "photo": "/images/Albert_Einstein_Head.jpg",
+        "photo": "https://en.wikipedia.org/wiki/Albert_Einstein#/media/File:Albert_Einstein_Head.jpg",
         "gender": "M",
-        "tags": ["scientific", "physicist"]
+        "tags": ["scientific", "physicist", "General relativity", "Nobel Prize in Physics"]
     },
 
     "2":{
         "name": "Nikola Tesla",
         "country": "Croatia",
         "category": "Cience",
-        "born": "07/10/1856",
+        "born": "7/10/1856",
         "live": false,
-        "photo": "/images/Tesla_circa_1890.jpeg",
+        "photo": "https://en.wikipedia.org/wiki/Nikola_Tesla#/media/File:Tesla_circa_1890.jpeg",
         "gender": "M",
-        "tags": ["scientific", "electricity"]
+        "tags": ["scientific", "electricity", "Alternating current"]
     },
 
     "3":{
         "name": "Alan Turing",
         "country": "England",
         "category": "Cience",
-        "born": "06/23/1912",
+        "born": "6/23/1912",
         "live": false,
-        "photo": "/images/Alan_Turing_Aged_16.jpg",
+        "photo": "https://en.wikipedia.org/wiki/Alan_Turing#/media/File:Alan_Turing_Aged_16.jpg",
         "gender": "M",
-        "tags": ["scientific", "computation", " Turing machine"]
+        "tags": ["scientific", "computation", " Turing machine", "Computer science"]
     },
 
     "4":{
         "name": "Galileo Galilei",
         "country": "Italy",
         "category": "Cience",
-        "born": "02/15/1564",
+        "born": "2/15/1564",
         "live": false,
-        "photo": "/images/Galileo_Galilei,_1636.jpg",
+        "photo": "https://es.wikipedia.org/wiki/Galileo_Galilei#/media/Archivo:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
         "gender": "M",
         "tags": ["scientific", "music", "astronymy", "telescope"]
     },
@@ -46,21 +46,962 @@
     "5":{
         "name": "Marie Curie",
         "country": "Poland",
-        "category": "Music",
-        "born": "11/07/1867",
+        "category": "Cience",
+        "born": "11/7/1867",
         "live": false,
-        "photo": "/images/Marie_Curie_c._1920s.jpg",
+        "photo": "https://en.wikipedia.org/wiki/Marie_Curie#/media/File:Marie_Curie_c._1920s.jpg",
         "gender": "F",
-        "tags": ["scientific", "radioactivity"]
+        "tags": ["scientific", "radioactivity", "polonium and radium"]
     },
     "6":{
-        "name": "Son Guku",
-        "country": "Japan",
-        "category": "Anime",
-        "born": "11/07/1887",
-        "live": true,
-        "photo": "/images/son-goku.jpg",
+        "name": "Niels Bohr",
+        "country": "Denmark",
+        "category": "Cience",
+        "born": "7/10/1885",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Niels_Bohr#/media/File:Niels_Bohr.jpg",
         "gender": "M",
-        "tags": ["Dragon ball", "Figther"]
+        "tags": ["Theoretical physics", "scientific"]
+    },
+    "7":{
+        "name": "Carl Linnaeus",
+        "country": "Sweden",
+        "category": "Cience",
+        "born": "5/23/1707",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Carl_Linnaeus#/media/File:Carl_von_Linn%C3%A9,_1707-1778,_botanist,_professor_(Alexander_Roslin)_-_Nationalmuseum_-_15723.tif",
+        "gender": "M",
+        "tags": ["Taxonomy", "scientific"]
+    },
+    "8":{
+        "name": "Charles Darwin",
+        "country": "United Kingdom",
+        "category": "Cience",
+        "born": "2/12/1809",
+        "live": false,
+        "photo": "https://es.wikipedia.org/wiki/Charles_Darwin#/media/Archivo:Charles_Darwin_portrait.jpg",
+        "gender": "M",
+        "tags": ["Taxonomy", "scientific"]
+    },
+    "9":{
+        "name": "Florence Nightingale",
+        "country": "England",
+        "category": "Cience",
+        "born": "5/12/1820",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Florence_Nightingale#/media/File:Florence_Nightingale_(H_Hering_NPG_x82368).jpg",
+        "gender": "F",
+        "tags": ["Hospital", "scientific", " nursing Polar area diagram"]
+    },
+    "10":{
+        "name": "Louis Pasteur",
+        "country": "France",
+        "category": "Cience",
+        "born": "12/27/1822",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Louis_Pasteur#/media/File:Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit.jpg",
+        "gender": "M",
+        "tags": ["Rabies vaccine", "scientific", "Pasteurization"]
+    },
+    "11":{
+        "name": "Santiago Ramon y Cajal",
+        "country": "Spain",
+        "category": "Cience",
+        "born": "5/1/1852",
+        "live": false,
+        "photo": "https://es.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal#/media/Archivo:Cajal-Restored.jpg",
+        "gender": "M",
+        "tags": ["neurohistology", "scientific"]
+    },
+    "12":{
+        "name": "Nicolas Copernico",
+        "country": "Poland",
+        "category": "Cience",
+        "born": "2/19/1473",
+        "live": false,
+        "photo": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Cop%C3%A9rnico#/media/Archivo:Nikolaus_Kopernikus.jpg",
+        "gender": "M",
+        "tags": ["Astronomy", "scientific", "Mathematics", "Theology"]
+    },
+    "13":{
+        "name": "Stephen Hawking",
+        "country": "England",
+        "category": "Cience",
+        "born": "1/8/1942",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Stephen_Hawking#/media/File:Stephen_Hawking.StarChild.jpg",
+        "gender": "M",
+        "tags": ["Astronomy", "scientific", "Mathematics", "Black hole"]
+    },
+    "14":{
+        "name": "Alexander Fleming",
+        "country": "England",
+        "category": "Cience",
+        "born": "8/6/1881",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Alexander_Fleming#/media/File:Synthetic_Production_of_Penicillin_TR1468.jpg",
+        "gender": "M",
+        "tags": ["penicillin", "scientific", "Lysozyme"]
+    },
+    "15":{
+        "name": "Gregor Mendel",
+        "country": "Austria",
+        "category": "Cience",
+        "born": "7/20/1822",
+        "live": false,
+        "photo": "hhttps://es.wikipedia.org/wiki/Gregor_Mendel#/media/Archivo:Gregor_Mendel.png",
+        "gender": "M",
+        "tags": ["genetics", "scientific"]
+    },
+    "16":{
+        "name": "Thomas Edison",
+        "country": "United States",
+        "category": "Cience",
+        "born": "2/11/1847",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Thomas_Edison#/media/File:Thomas_Edison2.jpg",
+        "gender": "M",
+        "tags": ["light bulb", "scientific", "Fluoroscopy", "Phonograph"]
+    },
+    "17":{
+        "name": "Alfred Nobel",
+        "country": "Sweden",
+        "category": "Cience",
+        "born": "10/21/1833",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Alfred_Nobel#/media/File:Alfred_Nobel3.jpg",
+        "gender": "M",
+        "tags": ["Nobel Prize", "scientific", "dynamite"]
+    },
+    "18":{
+        "name": "Isaac Asimov",
+        "country": "Russia",
+        "category": "Cience",
+        "born": "1/2/1920",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Isaac_Asimov#/media/File:Isaac.Asimov01.jpg",
+        "gender": "M",
+        "tags": ["biochemistry", "scientific", "Robot"]
+    },
+    "19":{
+        "name": "Rosalind Franklin",
+        "country": "England",
+        "category": "Cience",
+        "born": "7/25/1920",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Rosalind_Franklin#/media/File:Rosalind_Franklin_(1920-1958).jpg",
+        "gender": "F",
+        "tags": ["Structure of DNA", "scientific", "Structures of viruses"]
+    },
+    "20":{
+        "name": "Ivan Pavlov",
+        "country": "Russia",
+        "category": "Cience",
+        "born": "9/14/1849",
+        "live": false,
+        "photo": "https://es.wikipedia.org/wiki/Iv%C3%A1n_P%C3%A1vlov#/media/Archivo:Ivan_Pavlov_NLM3.jpg",
+        "gender": "M",
+        "tags": ["physiology", "scientific", "conditional reflex"]
+    },
+    "21":{
+        "name": "Novak Djokovic",
+        "country": "Serbia",
+        "category": "Sport",
+        "born": "5/22/1987",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Novak_Djokovic#/media/File:Novak_Djokovi%C4%87_Trophy_Wimbledon_2019-croped_and_edited.jpg",
+        "gender": "M",
+        "tags": ["Tennis", "Grand Slam", "Masters"]
+    },
+    "22":{
+        "name": "Serena Williams",
+        "country": "United States",
+        "category": "Sport",
+        "born": "9/26/1981",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Serena_Williams#/media/File:Serena-Smiling-2020.png",
+        "gender": "F",
+        "tags": ["Tennis", "Grand Slam", "Masters"]
+    },
+    "23":{
+        "name": "Kevin Durant",
+        "country": "United States",
+        "category": "Sport",
+        "born": "9/29/1988",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Kevin_Durant#/media/File:Kevin_Durant_(Wizards_v._Warriors,_1-24-2019)_(cropped).jpg",
+        "gender": "M",
+        "tags": ["basketball ", "NBA", "Small forward / Power forward"]
+    },
+    "24":{
+        "name": "Tiger Woods",
+        "country": "United States",
+        "category": "Sport",
+        "born": "12/30/1975",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Tiger_Woods#/media/File:Tiger_Woods_in_May_2019.jpg",
+        "gender": "M",
+        "tags": ["Golf ", " PGA"]
+    },
+    "25":{
+        "name": "Stephen Curry",
+        "country": "United States",
+        "category": "Sport",
+        "born": "3/14/1988",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Stephen_Curry#/media/File:TechCrunch_Disrupt_2019_(48834853256)_(1).jpg",
+        "gender": "M",
+        "tags": ["basketball ", "NBA", "Point guard"]
+    },
+    "26":{
+        "name": "Rafael Nadal",
+        "country": "Spain",
+        "category": "Sport",
+        "born": "6/3/1986",
+        "live": true,
+        "photo": "https://es.wikipedia.org/wiki/Rafael_Nadal#/media/Archivo:RafaelNadalAustralianOpen2022.jpg",
+        "gender": "M",
+        "tags": ["Tennis", "Grand Slam", "Masters"]
+    },
+    "27":{
+        "name": "Roger Federer",
+        "country": "Switzerland",
+        "category": "Sport",
+        "born": "8/8/1981",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Roger_Federer#/media/File:Federer_WM16_(37)_(28136155830).jpg",
+        "gender": "M",
+        "tags": ["Tennis", "Grand Slam", "Masters"]
+    },
+    "28":{
+        "name": "Conor McGregor",
+        "country": "Ireland",
+        "category": "Sport",
+        "born": "7/14/1988",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Conor_McGregor#/media/File:Conor_McGregor_2018.jpg",
+        "gender": "M",
+        "tags": ["UFC", "lightweight"]
+    },
+    "29":{
+        "name": "Neymar da Silva Santos Junior",
+        "country": "Brasil",
+        "category": "Sport",
+        "born": "2/5/1992",
+        "live": true,
+        "photo": "https://es.wikipedia.org/wiki/Neymar#/media/Archivo:Bra-Cos_(1)_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Soocer", "Santos", "FIFA"]
+    },
+    "30":{
+        "name": "Lionel Messi",
+        "country": "Argentina",
+        "category": "Sport",
+        "born": "6/24/1987",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Lionel_Messi#/media/File:Lionel_Messi_20180626.jpg",
+        "gender": "M",
+        "tags": ["Soocer", "Barcelona", "FIFA"]
+    },
+    "31":{
+        "name": "Cristiano Ronaldo",
+        "country": "Portugal",
+        "category": "Sport",
+        "born": "2/5/1985",
+        "live": true,
+        "photo": "https://es.wikipedia.org/wiki/Cristiano_Ronaldo#/media/Archivo:Cristiano_Ronaldo_2018.jpg",
+        "gender": "M",
+        "tags": ["Soocer", "Barcelona", "FIFA"]
+    },
+    "32":{
+        "name": "LeBron James",
+        "country": "United States",
+        "category": "Sport",
+        "born": "12/30/1984",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/LeBron_James#/media/File:LeBron_James_-_51959723161_(cropped).jpg",
+        "gender": "M",
+        "tags": ["basketball ", "NBA", "Point guard"]
+    },
+    "33":{
+        "name": "Michael Phelps",
+        "country": "United States",
+        "category": "Sport",
+        "born": "6/30/1985",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Michael_Phelps#/media/File:Michael_Phelps_Rio_Olympics_2016.jpg",
+        "gender": "M",
+        "tags": ["Swimming", "Butterfly", "Olympic games"]
+    },
+    "34":{
+        "name": "Usain Bolt",
+        "country": "Jamaica",
+        "category": "Sport",
+        "born": "8/21/1986",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Usain_Bolt#/media/File:Usain_Bolt_after_4_%C3%97_100_m_Rio_2016.jpg",
+        "gender": "M",
+        "tags": ["Sprints", "Track and field", "Olympic games"]
+    },
+    "35":{
+        "name": "Kobe Bryant",
+        "country": "United States",
+        "category": "Sport",
+        "born": "8/23/1978",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Kobe_Bryant#/media/File:Kobe_Bryant_2014.jpg",
+        "gender": "M",
+        "tags": ["basketball ", "NBA", "Point guard"]
+    },
+    "36":{
+        "name": "Lewis Hamilton",
+        "country": "England",
+        "category": "Sport",
+        "born": "1/7/1985",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Lewis_Hamilton#/media/File:Lewis_Hamilton_2016_Malaysia_2.jpg",
+        "gender": "M",
+        "tags": ["F1 ", "racing driver", "Formula One"]
+    },
+    "37":{
+        "name": "Valentino Rossi",
+        "country": "Italy",
+        "category": "Sport",
+        "born": "2/16/1979",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Valentino_Rossi#/media/File:Valentino_Rossi_2017.jpg",
+        "gender": "M",
+        "tags": ["Moto GP", "Grand Prix", "motorcycle"]
+    },
+    "38":{
+        "name": "Manny Pacquiao",
+        "country": "Philippines",
+        "category": "Sport",
+        "born": "12/17/1978",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Manny_Pacquiao#/media/File:Pacquiao_and_Didal_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Box", "lightweight", "WBA"]
+    },
+    "39":{
+        "name": "Andres Iniesta",
+        "country": "Spain",
+        "category": "Sport",
+        "born": "5/11/1984",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta#/media/File:Andr%C3%A9s_Iniesta_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Soocer", "Barcelona", "FIFA"]
+    },
+    "40":{
+        "name": "Ronaldinho Gaucho",
+        "country": "Brasil",
+        "category": "Sport",
+        "born": "3/21/1980",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Ronaldinho#/media/File:Ronaldinho_in_2019.jpg",
+        "gender": "M",
+        "tags": ["Soocer", "Barcelona", "FIFA"]
+    },
+    "41":{
+        "name": "Madonna Louise Ciccone",
+        "country": "United States",
+        "category": "Music",
+        "born": "8/16/1958",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Madonna#/media/File:Madonna_Rebel_Heart_Tour_2015_-_Stockholm_(23051472299)_(cropped).jpg",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "42":{
+        "name": "Mariah Carey",
+        "country": "United States",
+        "category": "Music",
+        "born": "3/27/1969",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Mariah_Carey#/media/File:Mariah_Carey_WBLS_2018_Interview_2.jpg",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "43":{
+        "name": "Beyonce Giselle Knowles-Carter",
+        "country": "United States",
+        "category": "Music",
+        "born": "9/4/1981",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Beyonc%C3%A9#/media/File:Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "44":{
+        "name": "Lady Gaga",
+        "country": "United States",
+        "category": "Music",
+        "born": "3/28/1986",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Lady_Gaga#/media/File:Lady_Gaga_at_Joe_Biden's_inauguration_(cropped_5).jpg",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "45":{
+        "name": "Adele Laurie Blue Adkins",
+        "country": "United States",
+        "category": "Music",
+        "born": "5/5/1988",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Adele#/media/File:Adele_for_Vogue_in_2021.png",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "46":{
+        "name": "Whitney Houston",
+        "country": "United States",
+        "category": "Music",
+        "born": "8/9/1963",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Whitney_Houston#/media/File:Whitney_Houston_(cropped3).JPEG",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "47":{
+        "name": "Janet Jackson",
+        "country": "United States",
+        "category": "Music",
+        "born": "5/16/1966",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Janet_Jackson#/media/File:JanetJacksonUnbreakableTourSanFran2015_(cropped).jpg",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "48":{
+        "name": "Christina Aguilera",
+        "country": "United States",
+        "category": "Music",
+        "born": "12/18/1980",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Christina_Aguilera#/media/File:Liberation_Tour_(45997616942)_(cropped).jpg",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "49":{
+        "name": "Mick Jagger",
+        "country": "England",
+        "category": "Music",
+        "born": "7/26/1943",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Mick_Jagger#/media/File:Mick_Jagger_Deauville_2014.jpg",
+        "gender": "M",
+        "tags": ["singer", "Rock", "Rolling Stones"]
+    },
+    "50":{
+        "name": "Bob Marley",
+        "country": "Jamaica",
+        "category": "Music",
+        "born": "2/6/1945",
+        "live": false,
+        "photo": "https://es.wikipedia.org/wiki/Bob_Marley#/media/Archivo:Bob-Marley.jpg",
+        "gender": "M",
+        "tags": ["singer", "reggae", "Jamming"]
+    },
+    "51":{
+        "name": "Robyn Rihanna Fenty",
+        "country": "Barbados",
+        "category": "Music",
+        "born": "2/20/1988",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Rihanna#/media/File:Rihanna_Fenty_2018.png",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "52":{
+        "name": "Taylor Swift",
+        "country": "United States",
+        "category": "Music",
+        "born": "12/13/1989",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Taylor_Swift#/media/File:191125_Taylor_Swift_at_the_2019_American_Music_Awards_(cropped).png",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "53":{
+        "name": "Katy Perry",
+        "country": "United States",
+        "category": "Music",
+        "born": "10/25/1984",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Katy_Perry#/media/File:Katy_Perry_performing_Vegas_residency_(cropped).png",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Emmy"]
+    },
+    "54":{
+        "name": "Eminem - Marshall Bruce Mathers III",
+        "country": "United States",
+        "category": "Music",
+        "born": "10/17/1972",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Eminem#/media/File:Eminem_-_Concert_for_Valor_in_Washington,_D.C._Nov._11,_2014_(2)_(Cropped).jpg",
+        "gender": "M",
+        "tags": ["singer", "Hip hop", "Billboard"]
+    },
+    "55":{
+        "name": "Tupac Shakur",
+        "country": "United States",
+        "category": "Music",
+        "born": "6/16/1971",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Tupac_Shakur#/media/File:Tupac_Amaru_Shakur2.jpg",
+        "gender": "M",
+        "tags": ["singer", "Hip hop", "All Eyez on Me"]
+    },
+    "56":{
+        "name": "50 Cent - Curtis James Jackson III",
+        "country": "United States",
+        "category": "Music",
+        "born": "7/6/1975",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/50_Cent#/media/File:50_Cent_in_2018.png",
+        "gender": "M",
+        "tags": ["singer", "Hip hop", "Animal Ambition"]
+    },
+    "57":{
+        "name": "Michael Jackson",
+        "country": "United States",
+        "category": "Music",
+        "born": "8/29/1958",
+        "live": false,
+        "photo": "https://es.wikipedia.org/wiki/Michael_Jackson#/media/Archivo:Michael_Jackson_Dangerous_World_Tour_1993.jpg",
+        "gender": "M",
+        "tags": ["singer", "Pop", "Thriller"]
+    },
+    "58":{
+        "name": "Shakira Isabel Mebarak",
+        "country": "Colombia",
+        "category": "Music",
+        "born": "2/2/1977",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Shakira#/media/File:Shakira_for_VOGUE_in_2021_2.png",
+        "gender": "F",
+        "tags": ["singer", "Pop", "Pies Descalzos"]
+    },
+    "59":{
+        "name": "Bruno Mars - Peter Gene",
+        "country": "United States",
+        "category": "Music",
+        "born": "10/8/1985",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Bruno_Mars#/media/File:BrunoMars24KMagicWorldTourLive_(cropped).jpg",
+        "gender": "M",
+        "tags": ["singer", "Pop", "Billboard"]
+    },
+    "60":{
+        "name": "Seal - Henry Olusegun Adeola",
+        "country": "England",
+        "category": "Music",
+        "born": "2/19/1963",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Seal_(musician)#/media/File:Seal_2012_(cropped).jpg",
+        "gender": "M",
+        "tags": ["singer", "Crazy", "Killer"]
+    },
+    "61":{
+        "name": "Dwayne Johnson",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "5/2/1972",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Dwayne_Johnson#/media/File:Dwayne_Johnson_2014_(cropped).jpg",
+        "gender": "M",
+        "tags": ["actor", "The Rock", "WWF/E"]
+    },
+    "62":{
+        "name": "Vin Diesel - Mark Sinclair",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "7/18/1967",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Vin_Diesel#/media/File:Vin_Diesel_XXX_Return_of_Xander_Cage_premiere.png",
+        "gender": "M",
+        "tags": ["actor", "Fast & Furious", "Riddick"]
+    },
+    "63":{
+        "name": "Bradley Cooper",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "1/5/1975",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Bradley_Cooper#/media/File:Glasto17-44_(35547413626)_Cropped.jpg",
+        "gender": "M",
+        "tags": ["actor", "Limitless", "Grammy Awards"]
+    },
+    "64":{
+        "name": "Ian McKellen",
+        "country": "England",
+        "category": "Cinema",
+        "born": "5/25/1939",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Ian_McKellen#/media/File:SDCC13_-_Ian_McKellen.jpg",
+        "gender": "M",
+        "tags": ["actor", "X-Men", "Golden Globe Award"]
+    },
+    "65":{
+        "name": "Johnny Depp",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "6/9/1963",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Johnny_Depp#/media/File:Johnny_Depp_2020.jpg",
+        "gender": "M",
+        "tags": ["actor", "Pirates of the Caribbean", "Academy Awards"]
+    },
+    "66":{
+        "name": "Tom Cruise",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "7/3/1962",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Tom_Cruise#/media/File:Tom_Cruise_by_Gage_Skidmore_2.jpg",
+        "gender": "M",
+        "tags": ["actor", "Top Gun", "Golden Globe Awards"]
+    },
+    "67":{
+        "name": "Scarlett Johansson",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "11/22/1984",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Scarlett_Johansson#/media/File:Scarlett_Johansson_by_Gage_Skidmore_2_(cropped,_2).jpg",
+        "gender": "F",
+        "tags": ["Actress", "avengers", "Academy Awards"]
+    },
+    "68":{
+        "name": "Morgan Freeman",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "6/1/1937",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Morgan_Freeman#/media/File:Morgan_Freeman_Deauville_2018.jpg",
+        "gender": "M",
+        "tags": ["Actor", "Street Smart", "Academy Awards"]
+    },
+    "69":{
+        "name": "Tom Hanks",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "7/9/1956",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Tom_Hanks#/media/File:Tom_Hanks_TIFF_2019.jpg",
+        "gender": "M",
+        "tags": ["Actor", "Forrest Gump", "Academy Awards"]
+    },
+    "70":{
+        "name": "Robert Downey Jr.",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "4/4/1965",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Robert_Downey_Jr.#/media/File:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Actor", "avengers", "Academy Awards"]
+    },
+    "71":{
+        "name": "Harrison Ford",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "7/13/1942",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Harrison_Ford#/media/File:Harrison_Ford_by_Gage_Skidmore_3.jpg",
+        "gender": "M",
+        "tags": ["Actor", "Indiana Jones", "Academy Awards", "007"]
+    },
+    "72":{
+        "name": "Samuel L. Jackson",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "12/21/1948",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Samuel_L._Jackson#/media/File:Samuel_L._Jackson_2019_by_Glenn_Francis.jpg",
+        "gender": "M",
+        "tags": ["Actor", "Jurassic Park", "avengers"]
+    },
+    "73":{
+        "name": "Will Smith",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "9/25/1968",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Will_Smith#/media/File:TechCrunch_Disrupt_2019_(48834434641)_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Actor", "The Fresh Prince", "Academy Award"]
+    },
+    "74":{
+        "name": "Adam Sandler",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "9/9/1966",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Adam_Sandler#/media/File:Adam_Sandler_Cannes_2017.jpg",
+        "gender": "M",
+        "tags": ["Actor", "Big Daddy"]
+    },
+    "75":{
+        "name": "Jackie Chan",
+        "country": "Hong Kong",
+        "category": "Cinema",
+        "born": "4/7/1954",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Jackie_Chan#/media/File:Jackie_Chan_July_2016.jpg",
+        "gender": "M",
+        "tags": ["Actor", "Hollywood Walk of Fame"]
+    },
+    "76":{
+        "name": "Angelina Jolie",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "6/4/1975",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Angelina_Jolie#/media/File:Angelina_Jolie_2_June_2014_(cropped).jpg",
+        "gender": "F",
+        "tags": ["Actress", "Tomb Raider"]
+    },
+    "77":{
+        "name": "Leonardo DiCaprio",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "11/11/1974",
+        "live": true,
+        "photo": "https://es.wikipedia.org/wiki/Leonardo_DiCaprio#/media/Archivo:Leonardo_Dicaprio_Cannes_2019.jpg",
+        "gender": "M",
+        "tags": ["Actor", "Titanic"]
+    },
+    "78":{
+        "name": "Robin Williams",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "7/21/1951",
+        "live": false,
+        "photo": "https://en.wikipedia.org/wiki/Robin_Williams#/media/File:Robin_Williams_Happy_Feet_premiere.jpg",
+        "gender": "M",
+        "tags": ["Actor", "Jumanji "]
+    },
+    "79":{
+        "name": "Chris Evans",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "6/13/1981",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Chris_Evans_(actor)#/media/File:Mark_Kassen,_Tony_C%C3%A1rdenas_and_Chris_Evans_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Actor", "avengers"]
+    },
+    "80":{
+        "name": "Mark Ruffalo",
+        "country": "United States",
+        "category": "Cinema",
+        "born": "11/22/1967",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Mark_Ruffalo#/media/File:Mark_Ruffalo_(36201774756)_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Actor", "avengers"]
+    },
+    "81":{
+        "name": "Jeff Bezos",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "1/12/1964",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Jeff_Bezos#/media/File:Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_(39074799225)_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Entrepreneur", "Amazon"]
+    },
+    "82":{
+        "name": "Elon Musk",
+        "country": "South Africa",
+        "category": "Forbes",
+        "born": "6/28/1971",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Elon_Musk#/media/File:Elon_Musk_Royal_Society_(crop2).jpg",
+        "gender": "M",
+        "tags": ["Entrepreneur", "SpaceX", "Tesla"]
+    },
+    "83":{
+        "name": "Bernard Arnault",
+        "country": "France",
+        "category": "Forbes",
+        "born": "6/28/1971",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Elon_Musk#/media/File:Elon_Musk_Royal_Society_(crop2).jpg",
+        "gender": "M",
+        "tags": ["Entrepreneur", "Louis Vuitton"]
+    },
+    "84":{
+        "name": "Bill Gates",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "10/28/1955",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Bill_Gates#/media/File:Bill_Gates_2017_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Entrepreneur", "Software developer", "Microsoft"]
+    },
+    "85":{
+        "name": "Mark Zuckerberg",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "5/14/1984",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Mark_Zuckerberg#/media/File:Mark_Zuckerberg_F8_2019_Keynote_(32830578717)_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Entrepreneur", "Meta Platforms", "Facebook"]
+    },
+    "86":{
+        "name": "Warren Buffett",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "8/30/1930",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Warren_Buffett#/media/File:Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Businessman", "investor"]
+    },
+    "87":{
+        "name": "Larry Page",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "3/26/1973",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Larry_Page#/media/File:Larry_Page_in_the_European_Parliament,_17.06.2009_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Entrepreneur", "Google"]
+    },
+    "88":{
+        "name": "Sergey Brin",
+        "country": "Russia",
+        "category": "Forbes",
+        "born": "8/21/1973",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Sergey_Brin#/media/File:Sergey_Brin_cropped.jpg",
+        "gender": "M",
+        "tags": ["Entrepreneur", "Google"]
+    },
+    "89":{
+        "name": "Mukesh Ambani",
+        "country": "Yemen",
+        "category": "Forbes",
+        "born": "4/19/1957",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Mukesh_Ambani#/media/File:Mukesh_Ambani.jpg",
+        "gender": "M",
+        "tags": ["Chairman", "Reliance Industries"]
+    },
+    "90":{
+        "name": "Larry Ellison",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "8/17/1944",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Larry_Ellison#/media/File:Larry_Ellison_picture.png",
+        "gender": "M",
+        "tags": ["Businessman", "investor", "Oracle"]
+    },
+    "91":{
+        "name": "Steve Ballmer",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "4/24/1956",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Steve_Ballmer#/media/File:Steve_Ballmer_2014.jpg",
+        "gender": "M",
+        "tags": ["Businessman", "investor", "Los Angeles Clippers"]
+    },
+    "92":{
+        "name": "Alice Walton",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "10/7/1949",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Alice_Walton#/media/File:Alice_Walton_(cropped).jpg",
+        "gender": "F",
+        "tags": ["Businessman", "Walmart"]
+    },
+    "93":{
+        "name": "Jim Walton",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "6/7/1948",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Jim_Walton#/media/File:Jim_Walton_attends_shareholders_meeting.jpg",
+        "gender": "M",
+        "tags": ["Businessman", "Walmart"]
+    },
+    "94":{
+        "name": "S. Robson Walton",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "10/28/1944",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/S._Robson_Walton#/media/File:S._Robson_Walton_by_Gage_Skidmore.jpg",
+        "gender": "M",
+        "tags": ["Businessman", "Walmart"]
+    },
+    "95":{
+        "name": "Carlos Slim",
+        "country": "Mexico",
+        "category": "Forbes",
+        "born": "1/28/1940",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Carlos_Slim#/media/File:Carlos_Slim_(45680472234)_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Businessman", "Telmex"]
+    },
+    "96":{
+        "name": "Jack Ma",
+        "country": "China",
+        "category": "Forbes",
+        "born": "9/10/1964",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Jack_Ma#/media/File:Enabling_eCommerce-_Small_Enterprises,_Global_Players_(39008130265)_(cropped).jpg",
+        "gender": "M",
+        "tags": ["Businessman", "Alibaba"]
+    },
+    "97":{
+        "name": "Ma Huateng",
+        "country": "China",
+        "category": "Forbes",
+        "born": "10/29/1971",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Ma_Huateng#/media/File:%E9%A9%AC%E5%8C%96%E8%85%BE_Pony_Ma_2019.jpg",
+        "gender": "M",
+        "tags": ["Businessman", "Tencent"]
+    },
+    "98":{
+        "name": "Michael Bloomberg",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "2/14/1942",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Michael_Bloomberg#/media/File:Mike_Bloomberg_Headshot.jpg",
+        "gender": "M",
+        "tags": ["Businessman", "politician"]
+    },
+    "99":{
+        "name": "Charles Koch",
+        "country": "United States",
+        "category": "Forbes",
+        "born": "11/1/1935",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Charles_Koch#/media/File:Charles_Koch_Portrait.jpg",
+        "gender": "M",
+        "tags": ["Businessman", "Koch"]
+    },
+    "100":{
+        "name": "Masayoshi Son",
+        "country": "Japan",
+        "category": "Forbes",
+        "born": "8/11/1957",
+        "live": true,
+        "photo": "https://en.wikipedia.org/wiki/Masayoshi_Son#/media/File:Masayoshi_Son_(%E5%AD%AB%E6%AD%A3%E7%BE%A9)_on_July_11,_2008.jpg",
+        "gender": "M",
+        "tags": ["Businessman", "Softbank"]
     }
+
 }
